@@ -1,4 +1,4 @@
-le---
+<!--le---
 title: Encrypt an Azure Virtual Machine | Microsoft Docs
 description: This document helps you to encrypt an Azure Virtual Machine after receiving an alert from Azure Security Center.
 services: security, security-center
@@ -15,7 +15,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 05/27/2016
 ms.author: tomsh
-
+-->
 ---
 # Encrypt an Azure Virtual Machine
 Azure Security Center will alert you if you have virtual machines that are not encrypted. These alerts will show as High Severity and the recommendation is to encrypt these virtual machines.
